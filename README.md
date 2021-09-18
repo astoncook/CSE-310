@@ -2,9 +2,9 @@
 
 This is my basic Hello World program.I created this software to demonstraite my knowlege of GitHub and adding my resouces to my portfolio.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+This is the video where I demonstraite my repository elements for my "Hello World" program.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=yvrJ4hxfYLU)
 
 # Development Environment
 
