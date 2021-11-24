@@ -1,4 +1,4 @@
-# Python Databases Tutorial&nbsp
+# Python Databases Tutorial
 
 Welcome to my Python Databases Tutorial. Advancing in Python can be a fun thing, but having the basics of efficency and data structures will help a programmer tremendously. These are the topics I am going to cover:
 
