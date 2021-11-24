@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coin Calculator</title>
+    <meta name="description" content="This webpage will calculate currency of the listed types into new ones.">
+    <link rel="stylesheet" href="/my_project_name/css/style.css">
+</head>
+<header>
+    <h1>Currency Calculator</h1>
+</header>
+<body>
+    <div class="input-form">
+        <form action="{{ url_for('results')}}" method="post">
+            Enter a Currency: <input type="text" name="currency_name"><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>
