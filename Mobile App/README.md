@@ -2,7 +2,7 @@
 
 I made a android app that emulated a heads or tails coin flip for the on the go need. Anyone with internet can use this application and do not need a physical coin. This is very convienent for people who dont carry around cash.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/wQwRy9MyECA)
 
 # Development Environment
 
